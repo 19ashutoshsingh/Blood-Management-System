@@ -88,14 +88,14 @@ header {
 
 .header-list ul li a {
   color: black;
-  font-size: 24px;
+  font-size: 20px;
   text-decoration: none;
   font-family: "Fredoka One", cursive;
 }
 
 .header-list ul li::after {
   content: "";
-  height: 2px;
+  height: 3.5px;
   background: #cd5c5c;
   display: block;
   margin: auto;
@@ -120,7 +120,7 @@ header {
 }
 
 .text-box h1 {
-  font-size: 70px;
+  font-size: 50px;
   font-family: "Neuton", serif;
   letter-spacing: 8px;
 }

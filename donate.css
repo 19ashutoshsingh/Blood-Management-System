@@ -163,7 +163,10 @@ main {
     text-align: center;
     font-family: 'Neuton', serif;
     border: none;
+}
 
+.hero-btn {
+    border: none;
 }
 
 .hero-btn:hover {
@@ -172,6 +175,7 @@ main {
     transition: 1s;
     color: #fff;
     width: 88%;
+    border: none;
 }
 
 
